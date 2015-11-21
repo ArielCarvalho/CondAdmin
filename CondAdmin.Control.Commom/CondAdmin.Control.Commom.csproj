@@ -47,14 +47,24 @@
     <Compile Include="Cryptography\Cryptography.cs" />
     <Compile Include="ExpressionRegular\ExpressionRegular.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\EntityValidation.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EntityValidation.resx</DependentUpon>
+    </Compile>
     <Compile Include="Validations\AssertionConcern.cs" />
     <Compile Include="Validations\EmailAssertionConcern.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Resources\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\EntityValidation.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>EntityValidation.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
