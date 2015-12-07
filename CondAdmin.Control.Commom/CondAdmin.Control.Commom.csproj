@@ -46,6 +46,9 @@
   <ItemGroup>
     <Compile Include="Cryptography\Cryptography.cs" />
     <Compile Include="ExpressionRegular\ExpressionRegular.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resources\EntityValidation.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -55,11 +58,25 @@
     <Compile Include="Validations\AssertionConcern.cs" />
     <Compile Include="Validations\EmailAssertionConcern.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
+    <Content Include="bin\Debug\CondAdmin.Control.Commom.dll" />
+    <Content Include="bin\Debug\CondAdmin.Control.Commom.pdb" />
+    <Content Include="bin\Debug\Newtonsoft.Json.dll" />
+    <Content Include="bin\Debug\Newtonsoft.Json.xml" />
+    <Content Include="obj\Debug\CondAdmin.Control.Commom.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\CondAdmin.Control.Commom.dll" />
+    <Content Include="obj\Debug\CondAdmin.Control.Commom.pdb" />
+    <Content Include="obj\Debug\TempPE\Resources.EntityValidation.Designer.cs.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\CondAdmin.Control.Commom.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\CondAdmin.Control.Commom.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="obj\Debug\CondAdmin.Control.Commom.Resources.EntityValidation.resources" />
     <EmbeddedResource Include="Resources\EntityValidation.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>EntityValidation.Designer.cs</LastGenOutput>

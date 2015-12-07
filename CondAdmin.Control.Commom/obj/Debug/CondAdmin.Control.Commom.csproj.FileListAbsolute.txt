@@ -1,0 +1,9 @@
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\bin\Debug\CondAdmin.Control.Commom.dll
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\bin\Debug\CondAdmin.Control.Commom.pdb
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\obj\Debug\CondAdmin.Control.Commom.csprojResolveAssemblyReference.cache
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\obj\Debug\CondAdmin.Control.Commom.Resources.EntityValidation.resources
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\obj\Debug\CondAdmin.Control.Commom.csproj.GenerateResource.Cache
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\obj\Debug\CondAdmin.Control.Commom.dll
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Commom\obj\Debug\CondAdmin.Control.Commom.pdb

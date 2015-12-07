@@ -40,6 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Condomino.cs" />
+    <Compile Include="Facilitie.cs" />
+    <Compile Include="FacilitieReservation.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Occurrence.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -47,6 +54,23 @@
       <Project>{c536a88e-1e89-43e9-84f5-f0234388a124}</Project>
       <Name>CondAdmin.Control.Commom</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\CondAdmin.Control.Commom.dll" />
+    <Content Include="bin\Debug\CondAdmin.Control.Commom.pdb" />
+    <Content Include="bin\Debug\CondAdmin.Control.Domain.dll" />
+    <Content Include="bin\Debug\CondAdmin.Control.Domain.pdb" />
+    <Content Include="obj\Debug\CondAdmin.Control.Domain.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\CondAdmin.Control.Domain.dll" />
+    <Content Include="obj\Debug\CondAdmin.Control.Domain.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\CondAdmin.Control.Domain.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

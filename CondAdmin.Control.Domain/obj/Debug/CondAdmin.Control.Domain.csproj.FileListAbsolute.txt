@@ -1,0 +1,7 @@
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Domain\bin\Debug\CondAdmin.Control.Domain.dll
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Domain\bin\Debug\CondAdmin.Control.Domain.pdb
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Domain\bin\Debug\CondAdmin.Control.Commom.dll
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Domain\bin\Debug\CondAdmin.Control.Commom.pdb
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Domain\obj\Debug\CondAdmin.Control.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Domain\obj\Debug\CondAdmin.Control.Domain.dll
+C:\Users\Riael\Documents\GitHubVisualStudio\CondAdmin\CondAdmin.Control.Domain\obj\Debug\CondAdmin.Control.Domain.pdb
