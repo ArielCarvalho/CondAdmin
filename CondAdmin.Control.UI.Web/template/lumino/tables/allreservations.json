@@ -1,0 +1,47 @@
+[
+  {
+    "facilitieId": 0,
+    "facilitieName": "Churrasqueira.",
+    "facilitieDs": "Local para fazer churrasco. Inclui a churrasqueira e as mesas em volta",
+    "Date": "10/12/2015",
+    "reservationDateTime": "01/12/2015 11:51:02",
+    "residentId": "100000001",
+    "residentName": "João"
+  },
+  {
+    "facilitieId": 1,
+    "facilitieName": "Salão de Festas",
+    "facilitieDs": "Salão para festas e eventos",
+    "Date":"25/12/2015",
+    "reservationDateTime": "01/12/2015 11:51:02",
+    "residentId": "100000001",
+    "residentName": "João"
+  },
+  {
+    "facilitieId": 2,
+    "facilitieName": "Churrasqueira",
+    "facilitieDs": "Local para fazer churrasco. Inclui a churrasqueira e as mesas em volta",
+    "Date":"30/12/2015",
+    "reservationDateTime": "01/12/2015 11:51:02",
+    "residentId": "100000001",
+    "residentName": "João"
+  },
+  {
+    "facilitieId": 3,
+    "facilitieName": "Salão de Festas",
+    "facilitieDs": "Salão para festas e eventos",
+    "Date":"25/12/2015",
+    "reservationDateTime": "01/12/2015 11:51:02",
+    "residentId": "100000002",
+    "residentName": "Maria"
+  },
+  {
+    "facilitieId": 4,
+    "facilitieName": "Churrasqueira",
+    "facilitieDs": "Local para fazer churrasco. Inclui a churrasqueira e as mesas em volta",
+    "Date":"12/12/2015",
+    "reservationDateTime": "02/12/2015 11:51:02",
+    "residentId": "100000002",
+    "residentName": "Maria"
+  }
+]

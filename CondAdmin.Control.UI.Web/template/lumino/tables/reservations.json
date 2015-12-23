@@ -1,0 +1,20 @@
+[
+  {
+    "facilitieId": 0,
+    "facilitieName": "Churrasqueira.",
+    "facilitieDs": "Local para fazer churrasco. Inclui a churrasqueira e as mesas em volta",
+    "Date":"10/12/2015"
+  },
+  {
+    "facilitieId": 1,
+    "facilitieName": "Salão de Festas",
+    "facilitieDs": "Salão para festas e eventos",
+    "Date":"25/12/2015"
+  },
+  {
+    "facilitieId": 2,
+    "facilitieName": "Churrasqueira",
+    "facilitieDs": "Local para fazer churrasco. Inclui a churrasqueira e as mesas em volta",
+    "Date":"30/12/2015"
+  }
+]
